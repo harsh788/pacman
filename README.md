@@ -9,3 +9,5 @@ Steps to run the code:
 
 ### Issues/Bugs
 - The maze rotation is implemented and can be applied by pressing **[** and **]** keys. Once the maze is rotated, the movement of pacman becomes random and unprecdictable. 
+
+Click on the link to play the game yourselves: [link](https://harsh788.github.io/pacman/)
